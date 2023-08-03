@@ -239,7 +239,7 @@ nav ul li a {
 }
 
 
-/*--------------------------------------------------------------------------------------Features----------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------Services----------------------------------------------------------------------------------------------*/
 
 
 #service {
@@ -339,7 +339,13 @@ nav ul li a {
 
 #testimonial {
     width: 100%;
-    padding: 70px;
+    padding: 70px 0;
+}
+
+.title-text {
+    text-align: center;
+    padding-bottom: 70px;
+    padding-top: 200px;
 }
 
 .testimonial-row {
@@ -409,6 +415,12 @@ nav ul li a {
     background: white;
     padding: 100px 0 20px;
     position: relative;
+}
+
+.title-text {
+    text-align: center;
+    padding-bottom: 70px;
+    padding-top: 200px;
 }
 
 .footer-row {
