@@ -4,6 +4,8 @@ This project has been done as practice.
 Credits: YouTube (GreatStack)
 
 
+Watch Live Demo: https://iamshreyad.github.io/Barber-Shop/
+
 
 ![screencapture-127-0-0-1-5500-Barber-index-html-2023-07-31-10_34_46](https://github.com/iamShreyaD/Barber-Shop/assets/70312732/7f8ee985-6192-4cf9-bccc-d6695067d6c5)
 
